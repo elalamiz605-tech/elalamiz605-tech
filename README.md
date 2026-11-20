@@ -35,6 +35,7 @@ My focus is simple: clean code, clear communication, and solutions that save my 
 **Frameworks & runtime**
 ![Node.js](https://img.shields.io/badge/Node.js-05060D?style=flat-square&logo=nodedotjs&logoColor=67E8F9)
 ![Express](https://img.shields.io/badge/Express-05060D?style=flat-square&logo=express&logoColor=67E8F9)
+![Flask](https://img.shields.io/badge/Flask-05060D?style=flat-square&logo=flask&logoColor=67E8F9)
 
 **AI**
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-05060D?style=flat-square&logo=googlegemini&logoColor=67E8F9)
@@ -46,13 +47,11 @@ My focus is simple: clean code, clear communication, and solutions that save my 
 
 ## Projects
 
-> New projects are on the way. This section will be updated soon.
-
-| Project | Description | Links |
-| --- | --- | --- |
-| Portfolio | My personal website: services, projects and contact. | *Coming soon* |
-| Restaurant website demo | A modern showcase website for a fictional restaurant. | *Coming soon* |
-| AI business chatbot | A Gemini-powered assistant that answers customer questions. | *Coming soon* |
+| Project | Description | Stack | Links |
+| --- | --- | --- | --- |
+| **AI business chatbot** | Customer-support assistant powered by Google Gemini. Answers only from the business's data, in the customer's language; API key kept server-side. | Python · Flask · Gemini API | [Code](https://github.com/elalamiz605-tech/ai-business-chatbot) |
+| **Restaurant website demo** | Showcase website for a fictional restaurant: tabbed menu, live opening status, map and table-booking dialog. | HTML · CSS · JavaScript | [Live demo](https://elalamiz605-tech.github.io/restaurant-website-demo/) · [Code](https://github.com/elalamiz605-tech/restaurant-website-demo) |
+| **Portfolio** | Bilingual (EN/FR) one-page portfolio: services, projects and contact. | HTML · CSS · JavaScript | [Live site](https://elalamiz605-tech.github.io) · [Code](https://github.com/elalamiz605-tech/elalamiz605-tech.github.io) |
 
 ## Contact
 
