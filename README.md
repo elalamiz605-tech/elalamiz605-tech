@@ -49,6 +49,7 @@ My focus is simple: clean code, clear communication, and solutions that save my 
 
 | Project | Description | Stack | Links |
 | --- | --- | --- | --- |
+| **Animated agency website** | Cinematic showcase site for a fictional automation and AI agency: looping holographic video background, animated SVG interface and scroll effects. | HTML · CSS · SVG · Video | [Live demo](https://elalamiz605-tech.github.io/automation-agency-demo/) · [Code](https://github.com/elalamiz605-tech/elalamiz605-tech.github.io/tree/main/automation-agency-demo) |
 | **AI business chatbot** | Customer-support assistant powered by Google Gemini. Answers only from the business's data, in the customer's language; API key kept server-side. | Python · Flask · Gemini API | [Code](https://github.com/elalamiz605-tech/ai-business-chatbot) |
 | **Restaurant website demo** | Showcase website for a fictional restaurant: tabbed menu, live opening status, map and table-booking dialog. | HTML · CSS · JavaScript | [Live demo](https://elalamiz605-tech.github.io/restaurant-website-demo/) · [Code](https://github.com/elalamiz605-tech/restaurant-website-demo) |
 | **Portfolio** | Bilingual (EN/FR) one-page portfolio: services, projects and contact. | HTML · CSS · JavaScript | [Live site](https://elalamiz605-tech.github.io) · [Code](https://github.com/elalamiz605-tech/elalamiz605-tech.github.io) |
