@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://elalamiz605-tech.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-elalamiz605--tech.github.io-6D3FD8?style=for-the-badge&labelColor=05060D"/></a>
-  <a href="https://elalamiz605-tech.github.io/el-lab-productivo/"><img alt="Blog El Lab Productivo" src="https://img.shields.io/badge/Blog-El%20Lab%20Productivo-00F0FF?style=for-the-badge&labelColor=05060D"/></a>
 </p>
 
 ---
@@ -50,11 +49,11 @@ My focus is simple: clean code, clear communication, and solutions that save my 
 
 | Project | Description | Stack | Links |
 | --- | --- | --- | --- |
-| **El Lab Productivo (blog)** | Spanish-language blog testing AI tools for freelancers and small businesses. Futuristic neon design, background film rendered from a 3D particle scene, GPU-friendly CSS animations, lightweight mobile mode and basic SEO. | HTML · CSS · Video · GitHub Pages | [Live site](https://elalamiz605-tech.github.io/el-lab-productivo/) · [Code](https://github.com/elalamiz605-tech/el-lab-productivo) |
 | **Animated agency website** | Cinematic showcase site for a fictional automation and AI agency: looping holographic video background, animated SVG interface and scroll effects. | HTML · CSS · SVG · Video | [Live demo](https://elalamiz605-tech.github.io/automation-agency-demo/) · [Code](https://github.com/elalamiz605-tech/elalamiz605-tech.github.io/tree/main/automation-agency-demo) |
 | **AI business chatbot** | Customer-support assistant powered by Google Gemini. Answers only from the business's data, in the customer's language; API key kept server-side. | Python · Flask · Gemini API | [Code](https://github.com/elalamiz605-tech/ai-business-chatbot) |
 | **Restaurant website demo** | Showcase website for a fictional restaurant: tabbed menu, live opening status, map and table-booking dialog. | HTML · CSS · JavaScript | [Live demo](https://elalamiz605-tech.github.io/restaurant-website-demo/) · [Code](https://github.com/elalamiz605-tech/restaurant-website-demo) |
 | **Portfolio** | Bilingual (EN/FR) one-page portfolio: services, projects and contact. | HTML · CSS · JavaScript | [Live site](https://elalamiz605-tech.github.io) · [Code](https://github.com/elalamiz605-tech/elalamiz605-tech.github.io) |
+| **El Lab Productivo (blog)** | Spanish-language blog testing AI tools for freelancers and small businesses. Futuristic neon design, background film rendered from a 3D particle scene, GPU-friendly CSS animations, lightweight mobile mode and basic SEO. | HTML · CSS · Video · GitHub Pages | [Live site](https://elalamiz605-tech.github.io/el-lab-productivo/) · [Code](https://github.com/elalamiz605-tech/el-lab-productivo) |
 
 ## Contact
 
