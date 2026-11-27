@@ -47,8 +47,17 @@ My focus is simple: clean code, clear communication, and solutions that save my 
 
 ## Projects
 
+### ⭐ Featured: Momentum
+
+[![Momentum, habits and tasks app](https://elalamiz605-tech.github.io/suivi-habitudes/assets/apercu-annee.jpg)](https://elalamiz605-tech.github.io/suivi-habitudes/)
+
+**Momentum** is an installable habit and task tracker (PWA, offline) with ideas no competitor has: your **year in 3D** built from your real data (shareable as an image), a **Sunday review** written like a coach with one-click fixes (optional AI coach via the Claude API), and a **"never twice"** comeback mode with identities and votes. Streaks that respect skipped days, pauses and vacations; five frequencies; reminders; weekly insights; light/dark theme; French, Spanish and English. Vanilla JavaScript, Three.js with hand-written shaders, no framework, no build step, no server.
+
+[Landing page](https://elalamiz605-tech.github.io/suivi-habitudes/) · [Open the app](https://elalamiz605-tech.github.io/suivi-habitudes/app.html) · [Code](https://github.com/elalamiz605-tech/suivi-habitudes)
+
 | Project | Description | Stack | Links |
 | --- | --- | --- | --- |
+| **Momentum** | Habit and task tracker: PWA, 3D year of real data, weekly review with applicable suggestions and optional AI coach, "never twice" comeback mode, reminders, three languages. | JavaScript · Three.js · GLSL · PWA | [Live app](https://elalamiz605-tech.github.io/suivi-habitudes/app.html) · [Code](https://github.com/elalamiz605-tech/suivi-habitudes) |
 | **Animated agency website** | Cinematic showcase site for a fictional automation and AI agency: looping holographic video background, animated SVG interface and scroll effects. | HTML · CSS · SVG · Video | [Live demo](https://elalamiz605-tech.github.io/automation-agency-demo/) · [Code](https://github.com/elalamiz605-tech/elalamiz605-tech.github.io/tree/main/automation-agency-demo) |
 | **AI business chatbot** | Customer-support assistant powered by Google Gemini. Answers only from the business's data, in the customer's language; API key kept server-side. | Python · Flask · Gemini API | [Code](https://github.com/elalamiz605-tech/ai-business-chatbot) |
 | **Restaurant website demo** | Showcase website for a fictional restaurant: tabbed menu, live opening status, map and table-booking dialog. | HTML · CSS · JavaScript | [Live demo](https://elalamiz605-tech.github.io/restaurant-website-demo/) · [Code](https://github.com/elalamiz605-tech/restaurant-website-demo) |
