@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full-Stack Developer</strong> · Websites &amp; AI tools for small businesses<br/>
-  Based in Salamanca, Spain · Available for freelance work · 🇪🇸 🇫🇷 🇬🇧
+  Based in Spain · Working remotely with clients worldwide · English · Français · Español
 </p>
 
 <p align="center">
@@ -12,23 +12,21 @@
 
 ---
 
-## 🇪🇸 En español
+## 🌍 English · Français · Español
 
-Hola, soy **Ziad**, desarrollador web en **Salamanca**. Ayudo a comercios y pequeños negocios a tener más clientes con herramientas sencillas:
+**EN** I help small businesses all over the world get more customers online: websites, online shops, QR menus, booking systems and AI assistants. 100% remote, clear prices, fast delivery.
 
-- **Página web** rápida y bonita, que se ve bien en el móvil.
-- **Menú con código QR** para bares y cafeterías, en varios idiomas.
-- **Reservas online** para peluquerías y barberías.
-- **Asistente con IA** que responde a tus clientes las 24 horas.
-- **Presupuestos y facturas** en un clic.
+**FR** J'aide les petits commerces du monde entier à trouver plus de clients en ligne : sites web, boutiques en ligne, menus QR, réservations et assistants IA. Tout à distance, prix clairs, livraison rapide.
 
-👉 Mira los ejemplos más abajo y escríbeme a **[elalamiz605@gmail.com](mailto:elalamiz605@gmail.com)**.
+**ES** Ayudo a pequeños negocios de todo el mundo a conseguir más clientes en internet: páginas web, tiendas online, menús QR, reservas y asistentes con IA. 100 % a distancia, precios claros, entrega rápida.
+
+👉 See the examples below · Voir les exemples ci-dessous · Mira los ejemplos más abajo — **[elalamiz605@gmail.com](mailto:elalamiz605@gmail.com)**
 
 ---
 
 ## About me
 
-I build fast, modern websites and practical AI tools for small businesses and independent professionals.
+I build fast, modern websites and practical AI tools for small businesses and independent professionals, wherever they are. I work fully remotely in English, French and Spanish.
 My focus is simple: clean code, clear communication, and solutions that save my clients time or bring them new customers.
 
 ## What I can do for you
@@ -110,8 +108,8 @@ My focus is simple: clean code, clear communication, and solutions that save my 
 
 ## Contact
 
-Have a project in mind? I'd be happy to talk about it.
-¿Tienes un negocio en Salamanca? Hablemos.
+Have a project in mind? I'd be happy to talk about it, wherever you are.
+Un projet ? Parlons-en. · ¿Tienes un proyecto? Hablemos.
 
 - **Email:** [elalamiz605@gmail.com](mailto:elalamiz605@gmail.com)
 - **Portfolio:** [elalamiz605-tech.github.io](https://elalamiz605-tech.github.io)
