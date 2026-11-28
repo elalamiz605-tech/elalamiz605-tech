@@ -83,7 +83,7 @@
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| **Website security scanner** | Checks a website in a few seconds: HTTPS and certificate, security headers, cookies, exposed files (`.git`, `.env`, backups), mixed content and email spoofing (SPF/DMARC). Grade A to F and a report in English, French or Spanish, as a web app or a CLI (`--fail-under` blocks a deployment in CI). Passive checks, SSRF-protected, zero dependencies, 155 tests.<br/><sub>TypeScript · Node.js · Vitest · GitHub Actions · Render</sub> | [Try it](https://website-security-scanner.onrender.com) · [Code](https://github.com/elalamiz605-tech/website-security-scanner) |
+| **Website security scanner** | Checks a website in a few seconds: HTTPS and certificate, security headers, cookies, exposed files (`.git`, `.env`, backups), mixed content and email spoofing (SPF/DMARC). Grade A to F and a report in English, French or Spanish, as a web app or a CLI (`--fail-under` blocks a deployment in CI). Passive checks, SSRF-protected, zero dependencies, 155 tests.<br/><sub>TypeScript · Node.js · Vitest · GitHub Actions · Render</sub> | [Try it](https://website-security-scanner-jbs9.onrender.com) · [Code](https://github.com/elalamiz605-tech/website-security-scanner) |
 | **mes-themes** | Plugin for Claude Code: eleven animated themes (neon, hologram, hyperspace…) for the desktop and mobile apps, switched with one command.<br/><sub>TypeScript · Claude Code plugin</sub> | [Code](https://github.com/elalamiz605-tech/mes-themes-) |
 
 ## 🧰 Tech stack
