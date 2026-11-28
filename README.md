@@ -46,6 +46,7 @@
 | **Booking systems** | Online appointments for salons and services, with an admin dashboard. |
 | **QR menus** | Digital menus for cafés and restaurants, in several languages, easy to update. |
 | **AI chatbots** | Assistants powered by Gemini, OpenAI or Claude that answer your customers 24/7, using only your business's information. |
+| **Security check** | A security audit of your website (HTTPS, headers, exposed files, email spoofing) with a clear report, then the fixes. |
 | **Automation** | Python and JavaScript tools that remove repetitive work: quotes, invoices, reports, API integrations. |
 
 **How we work together:** ① a short call or email about your business → ② a clear proposal with a fixed price → ③ I build it and share previews as I go → ④ launch on your domain, then help when you need changes.
@@ -78,10 +79,11 @@
 | **El Lab Productivo** | Spanish-language blog testing AI tools for freelancers and small businesses. Neon design, background film, light mobile mode, basic SEO.<br/><sub>HTML · CSS · Video</sub> | [Site](https://elalamiz605-tech.github.io/el-lab-productivo/) · [Code](https://github.com/elalamiz605-tech/el-lab-productivo) |
 | **Portfolio** | Bilingual (EN/FR) one-page portfolio: services, projects and contact.<br/><sub>HTML · CSS · JavaScript</sub> | [Site](https://elalamiz605-tech.github.io) · [Code](https://github.com/elalamiz605-tech/elalamiz605-tech.github.io) |
 
-**Developer tools**
+**Developer tools & security**
 
 | Project | What it is | Links |
 | --- | --- | --- |
+| **Website security scanner** | Checks a website in a few seconds: HTTPS and certificate, security headers, cookies, exposed files (`.git`, `.env`, backups), mixed content and email spoofing (SPF/DMARC). Grade A to F and an HTML report in English, French or Spanish; `--fail-under` to block a deployment in CI. Passive checks only, zero dependencies, 99 tests.<br/><sub>TypeScript · Node.js · Vitest · GitHub Actions</sub> | [Code](https://github.com/elalamiz605-tech/website-security-scanner) · [Example report](https://github.com/elalamiz605-tech/website-security-scanner#readme) |
 | **mes-themes** | Plugin for Claude Code: eleven animated themes (neon, hologram, hyperspace…) for the desktop and mobile apps, switched with one command.<br/><sub>TypeScript · Claude Code plugin</sub> | [Code](https://github.com/elalamiz605-tech/mes-themes-) |
 
 ## 🧰 Tech stack
